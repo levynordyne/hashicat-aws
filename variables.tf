@@ -35,16 +35,16 @@ variable "admin_username" {
 }
 
 variable "height" {
-  default     = "400"
+  default     = "600"
   description = "Image 600 in pixels."
 }
 
 variable "width" {
-  default     = "600"
+  default     = "800"
   description = "Image 800 in pixels."
 }
 
 variable "placeholder" {
-  default     = "loremflickr.com"
+  default     = "placedog.net"
   description = "Image-as-a-service URL. Some other fun ones to try are fillmurray.com, placecage.com, placebeard.it, loremflickr.com, baconmockup.com, placeimg.com, placebear.com, placeskull.com, stevensegallery.com, placedog.net"
 }

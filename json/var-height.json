@@ -2,8 +2,8 @@
   "data": {
     "type":"vars",
     "attributes": {
-      "key":"600",
-      "value":"placekitten.com",
+      "key":"height",
+      "value":"600",
       "category":"terraform",
       "hcl":false,
       "sensitive":false
@@ -11,7 +11,7 @@
     "relationships": {
       "workspace": {
         "data": {
-          "id":"REPLACE_WITH_WORKSPACE_ID",
+          "id":"hashicat-aws",
           "type":"workspaces"
         }
       }

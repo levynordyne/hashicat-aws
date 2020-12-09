@@ -2,8 +2,8 @@
   "data": {
     "type":"vars",
     "attributes": {
-      "key":"800",
-      "value":"placedog.com",
+      "key":"width",
+      "value":"800",
       "category":"terraform",
       "hcl":false,
       "sensitive":false

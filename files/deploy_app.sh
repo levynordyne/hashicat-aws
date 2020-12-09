@@ -6,10 +6,10 @@ cat << EOM > /var/www/html/index.html
 <html>
   <head><title>Meow!</title></head>
   <body>
-  <div style="width:800px;margin: 0 auto">
+  <div style="800:800px;margin: 0 auto">
 
   <!-- BEGIN -->
-  <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
+  <center><img src="http://${placedog.net}/${800}/${600}"></img></center>
   <center><h2>Meow World!</h2></center>
   Speedrun.
   <!-- END -->

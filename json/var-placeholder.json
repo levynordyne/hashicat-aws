@@ -1,0 +1,20 @@
+{
+  "data": {
+    "type":"vars",
+    "attributes": {
+      "key":"placedog.com",
+      "value":"Dog",
+      "category":"terraform",
+      "hcl":false,
+      "sensitive":false
+    },
+    "relationships": {
+      "workspace": {
+        "data": {
+          "id":"hashicat-aws",
+          "type":"workspaces"
+        }
+      }
+    }
+  }
+}
